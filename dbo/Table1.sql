@@ -1,4 +1,4 @@
-CREATE TABLE [dbo].[Table1]
+CREATE TABLE [dbo].[Table2]
 (
   [Id] INT NOT NULL 
 )
