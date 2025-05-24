@@ -3,7 +3,7 @@
   <Sdk Name="Microsoft.Build.Sql" Version="1.0.0" />
   <PropertyGroup>
     <Name>DatabaseProjectdev_dedicated1905</Name>
-    <ProjectGuid>{C2E7468F-B659-4BAE-8C1D-1D0178D9885A}</ProjectGuid>
+    <ProjectGuid>{BB1DFABA-818E-488F-81C8-94E28768085A}</ProjectGuid>
     <DSP>Microsoft.Data.Tools.Schema.Sql.SqlDwDatabaseSchemaProvider</DSP>
     <ModelCollation>1033, CI</ModelCollation>
   </PropertyGroup>
